@@ -1,0 +1,95 @@
+{
+    "isSkipAgentDeployment": false,
+    "isSkipInjectFailures": false,
+    "targetMachinesCreds": {
+        "username": "dfuser",
+        "password": "",
+        "sshkey": "LS0tLS1CRUdJTiBPUEVOU1NIIFBSSVZBVEUgS0VZLS0tLS0KYjNCbGJuTnphQzFyWlhrdGRqRUFBQUFBQkc1dmJtVUFBQUFFYm05dVpRQUFBQUFBQUFBQkFBQUJsd0FBQUFkemMyZ3RjbgpOaEFBQUFBd0VBQVFBQUFZRUF4NWx3SlVJVnE4VHhpNkwzMysxdjNxVGJ4eU0ycVFDYkpyRmpWWTM0WXptbUZHL1JQSkNtCjlmbTFGVkpuRlJkUGx0UW5jZ3lUYWp3aTBkYWVORVpVQnBwcnhJVkdxYUduT3VNM0RuS3h2QUNlQzFYTFJUWmhkcjc0UXIKVU5TWjdFaDFiRXVWOHFBOUZUOXZRL2Rjd1lIa2d0RHZTZjc2N1hVRXlJOWRrMEJ0cVZCUWtycnZwejJTcCtNN0ZvSTZKRwpGUFNFN0k4b1Z4VlQrSklsbWRzZVZQdkZ5dnhxSm8zd29maG1KZTlOWWNnTnAvaGJKVHBIUjJMTytoNzN2UituTmdYRm45CkNSNjNPcjVuemhrd29PZFdsb09PVEJrTG1aQ2xjSEhHaSt2K0tzMHBZbllWeS9jVHVKSDRiM3JRL0VJWXkzdzYwWW5MTlkKVGl5dmdDa3h6R0YxZ0FUV0ZvSTJROVdZdjBadVBsSEtWNVM4eVQ5TU03aGJuNytnRlFXTzRVUEE1RXdrOXVBZ0p5Q3pYOQovZ1FGR20yaFZuTy9aTXVBaTdxOVRmUkpydGt5Sy9kVXFMVmRVam9qYnVtbnRydzREeUluY2hWYW1ud3hMODN2QkkrUElKCmM0b2trWG1Dd3F1aU8xbUNsRlRnYWYwR3VoVHk3QitGekFHMzJ4dXRBQUFGa0JJVU5Gb1NGRFJhQUFBQUIzTnphQzF5YzIKRUFBQUdCQU1lWmNDVkNGYXZFOFl1aTk5L3RiOTZrMjhjak5xa0FteWF4WTFXTitHTTVwaFJ2MFR5UXB2WDV0UlZTWnhVWApUNWJVSjNJTWsybzhJdEhXbmpSR1ZBYWFhOFNGUnFtaHB6cmpOdzV5c2J3QW5ndFZ5MFUyWVhhKytFSzFEVW1leElkV3hMCmxmS2dQUlUvYjBQM1hNR0I1SUxRNzBuKyt1MTFCTWlQWFpOQWJhbFFVSks2NzZjOWtxZmpPeGFDT2lSaFQwaE95UEtGY1YKVS9pU0pabmJIbFQ3eGNyOGFpYU44S0g0WmlYdlRXSElEYWY0V3lVNlIwZGl6dm9lOTcwZnB6WUZ4Wi9Ra2V0enErWjg0WgpNS0RuVnBhRGprd1pDNW1RcFhCeHhvdnIvaXJOS1dKMkZjdjNFN2lSK0c5NjBQeENHTXQ4T3RHSnl6V0U0c3I0QXBNY3hoCmRZQUUxaGFDTmtQVm1MOUdiajVSeWxlVXZNay9URE80VzUrL29CVUZqdUZEd09STUpQYmdJQ2NnczEvZjRFQlJwdG9WWnoKdjJUTGdJdTZ2VTMwU2E3Wk1pdjNWS2kxWFZJNkkyN3BwN2E4T0E4aUozSVZXcHA4TVMvTjd3U1BqeUNYT0tKSkY1Z3NLcgpvanRaZ3BSVTRHbjlCcm9VOHV3Zmhjd0J0OXNiclFBQUFBTUJBQUVBQUFHQUN0UWd1T3krWnp5K2pBQlI2VlNrMnBQZ0ZvCndyQlgweWJhVjNDYWV6bjVKN2w2VS9XVVZSd1l1RUR2MlMrUnAwSjI4b0dyQmkrUUw5TXB3dHBoRmdzcUVERXJ6V1NoS3EKazIvTFIxM2lsWndFOXdGM0R6QzFsZThqWWQ4WHN2UkpuandQWFMwMEJ0UCs5YWxubmZqdUlBcHpZMW5US1hvM1ZUUnB3OAppK1lWYlBlZC8yL2oyNU5rRnZhbGVJR2xMTjhZb1lnZ3I4T2NrKzduL2pTVmNSYkxQaUZiS2ZBYXQyc0JyZFU5YUpRTEpOClIxMGFlTWtTSCtYVTY4M3RTOVhoTUc2RkE0V2szVENMRjV4TWN1dUt0Q3g5TTNUSE1GZ3p2VFV1K05NOWpuekZIMm1HK1QKTG1zQ2JMMkhJUnM3Sk5OdVdycU9IczR1eHZsMm5UbFdIUFl0VitkY2U1dlFUb0NqNmFXRXh0WmdGSnhVWHp0RWozM3NzSgpFMVpyY2lmRHMvS25va281K3NqMTZxaTNsVUM4Zzg1ODFGb2luY2x3dnlIdVlIcWdaR0dLQUZmVi9zY3BOamo0OEVvbU5sCmswZHM5STNSZ2RMb1pWQ3E4czI2WUVsOFI2WERNZzN3bk9Yc3JnWDMxUGUyY3p0ZTJ4OCtGUWZSTG5UNjBJblBYaEFBQUEKd1FDb3ZOS1F2TW9idlFuVzZZSnhuWS9NWjMyM00vRi9pRjBPaTk2Z2VXWDE4dWpSUXdSaU1PMzdLTXVsT3FuZU9PN1p1OQpMS3QrSWtwSlNnSTNkR2d6aFFLWDlHZTd3TWk2a2NXa2hWREVjTlZYa3QzWFFXeUxZN3ZOOGxsZmR1Qi9BOWdRQW1OTFkvCnFvY1ZLaVdXVkF4a0Y4K1h6Y3FsYUw3N0ozU0kwSngzaFB5ZGY2dG81eEVORHp6eWhaVXlTaWkrSDlNdHgybU9wYXVaQ0oKdDFlaHB3RkwyUnFKbnpRdTEyWlRNcUlBdVhvbkdNeU9OR3dWRzBUNkVBbTdZaEZUa0FBQURCQU9OTWJOTHJOQjVZbEIxVwp5RTFlUE5VM1NYbTNTckNzS1IzV1FIZnkrQjR4SmF3c25hNEFwbDdzR2MwTTZ5ZnpQQ3B3MUR4SlhBT21vdjVLN3VKVjZ2Cm12US9FUVFNWTBxc2FBM1BEMEsyL3FDVnNDeS82MG9xSEE4eExweU9VMWtRdTV3VzhmLzcwK1VKRlMyNFcyaVpOa0djR2YKL1o5Sy9ZbE1Ic2liMXZMUHFGWVU1bUlPTmorc2ErWVZXSmF0OGJBNGRqeW04TUVrZWczSXBMcjBxdS92WVRIUGR4dUxNagorVXdpSVNvcDNoUll2ajRGQXlnbElxMDlrMEpKWldjUUFBQU1FQTRNMmVmcFZZYWNBK1FsN2VDUlU0Tmp0MENUdDFTRWd2CklScjlTbWhJd2RxOW14UkwrcmpPdWdDRmxzL2RGbzJ2OHBUR1N1Y01Ja3ZzbFhEYTJJekVxNjRhdHQzZGxjOUFLbUFhZFcKRmQ5Si9iMytYSm13SXNUaThsais2RVBHNzY4RlZ1WVNGVGFidXVScXBMRG1BVGZzK2YrS3cxS2k3c3lhdWVzYStPUGJYdQpPODVJV0R6TkZiYTZjN3BNM0tQV2M2T0VWSi9rcFIyUWE2ZFVxVVFScnpoSjlWOXljWmtibFlvMWt0K2dsaG5QdFA0TTJRCmo0UzZtUitXYjlKWTc5QUFBQUUyUm1kWE5sY2tCa2R6RXpaSFZ6WjNWME1ERUJBZ01FQlFZSAotLS0tLUVORCBPUEVOU1NIIFBSSVZBVEUgS0VZLS0tLS0="
+    },
+    "targetMachines": [
+        {
+            "hostname": "10.146.98.185",
+            "type": "linux",
+            "IsDeployAgent": true
+        },
+        {
+            "hostname": "10.48.133.217",
+            "username": "root",
+            "password": "Mk9tbmlXYXkh",
+            "type": "linux",
+            "IsDeployAgent": true
+        }
+    ],
+    "experiments": [
+        {
+            "attackType": "disk",
+            "attackPartition": "/tmp",
+            "attackPercentage": 60,
+            "attackDuration": 60,
+            "hostName": "10.48.133.217",
+            "sleepTime": 0,
+            "steadyState": [
+                {
+                    "type": "pre",
+                    "hostname": "10.48.133.217",
+                    "metrics": [
+                        {
+                            "type": "disk",
+                            "thresholdPercentage": 80,
+                            "condition": "lt",
+                            "partition": "/tmp"
+                        }
+                    ]
+                },
+                {
+                    "type": "post",
+                    "hostname": "10.48.133.217",
+                    "metrics": [
+                        {
+                            "type": "disk",
+                            "thresholdPercentage": 80,
+                            "condition": "lt",
+                            "partition": "/tmp"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hostName": "10.48.133.217",
+            "attackType": "latency",
+            "attackDuration": 30,
+            "attackPercentage":50,
+            "delayToBeInduced": 50,
+            "serversToBeImpacted": "10.146.98.185.454",
+            "sleepTime": 0,
+            "steadyState": [
+                {
+                    "type": "pre",
+                    "hostname": "10.146.98.185",
+                    "metrics": [
+                        {
+                            "type": "round trip time",
+                            "thresholdPercentage": 80,
+                            "serversToBeImpacted": "10.48.133.217", 
+                            "condition": "lt"
+                        }
+                    ]
+                },
+                {
+                    "type": "post",
+                    "hostname": "10.146.98.185",
+                    "metrics": [
+                        {
+                            "type": "round trip time",
+                            "thresholdPercentage": 80,
+                            "serversToBeImpacted": "10.48.133.217", 
+                            "condition": "lt"
+                        }
+                    ]
+                }
+            ]
+        }
+           
+    ]
+}
