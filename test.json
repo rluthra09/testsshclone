@@ -61,7 +61,7 @@
             "attackDuration": 30,
             "attackPercentage":50,
             "delayToBeInduced": 50,
-            "serversToBeImpacted": "10.146.98.185.454",
+            "serversToBeImpacted": "10.146.98.185",
             "sleepTime": 0,
             "steadyState": [
                 {
